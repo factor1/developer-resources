@@ -24,6 +24,8 @@ Now we can use an FTP program like Cyberduck or Transmit to upload our theme. Yo
 
 Make sure your SFTP info is correct. Once you're logged in, navigate to the site you have just created and upload your theme to the `/themes/` folder on Flywheel, then if you're uploading the `plugins/` folder instead of manually installing plugins you should do this now as well. 
 
+---
+
 **4. Moving the Database and Media Files**
 
 Now we can get started moving the database from your local install to the server, as well as the media files. Login to your new WordPress install on the Flywheel server, and upload the Migrate WPDB plugin if its not already there, and activate the Media Files addon as well. 
