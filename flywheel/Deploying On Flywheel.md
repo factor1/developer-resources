@@ -30,6 +30,8 @@ Make sure your SFTP info is correct. Once you're logged in, navigate to the site
 
 Now we can get started moving the database from your local install to the server, as well as the media files. Login to your new WordPress install on the Flywheel server, and upload the Migrate WPDB plugin if its not already there, and activate the Media Files addon as well. 
 
-Now we can go ahead and use Migrate WPDB Pro to move our database and media files over to our fresh install on Flywheel, and you're ready to rock! 🤘
+Now we can go ahead and use Migrate WPDB Pro to move our database and media files over to our fresh install on Flywheel, and you're ready to rock! 🤘 
+
+[Click here for docs on using WP Migrate DB Pro](https://github.com/factor1/developer-resources/blob/master/WP%20Migrate%20DB/Syncing%20Databases.md)
 
 > **HELP!** If the media file transfer fails, try again. If it fails again... bummer - but you'll have to just manually upload the `/uploads/` folder to Flywheel. 
