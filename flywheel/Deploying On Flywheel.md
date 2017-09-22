@@ -32,6 +32,9 @@ Now we can get started moving the database from your local install to the server
 
 Now we can go ahead and use Migrate WPDB Pro to move our database and media files over to our fresh install on Flywheel, and you're ready to rock! 🤘 
 
+#### A Note About Database Prefixes 
+By default, Flywheel gives your database a unique prefix that may not match up to what your local prefix is using. If thats the case, you can edit the Flywheel DB prefix via the Flywheel admin panel or match your local db prefix to what Flywheel is using. (Flywheel does not allow the editing of `wp-config.php` - so keep this in mind)
+
 [Click here for docs on using WP Migrate DB Pro](https://github.com/factor1/developer-resources/blob/master/WP%20Migrate%20DB/Syncing%20Databases.md)
 
 > **HELP!** If the media file transfer fails, try again. If it fails again... bummer - but you'll have to just manually upload the `/uploads/` folder to Flywheel. 
