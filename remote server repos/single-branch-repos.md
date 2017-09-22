@@ -70,7 +70,7 @@ Now lets break this down a little bit. `#!/bin/sh` tells the server that this is
 `--git-dir=` is where the actual git repo lives on the server. This should be the path to where you setup the initial git repo earlier in this documentation. 
 
 ### Setting Permissions
-The last step of this process is to ensure we have the proper permissions set on our script so that git can use it. 
+The last step of this process is to ensure we have the proper permissions set on our script so that git can excute it. We use the `[chmod](https://en.wikipedia.org/wiki/Chmod)` command with an argument of `+x` to make it executeable. 
 
 ```sh
 chmod +x post-receive
