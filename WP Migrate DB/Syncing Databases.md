@@ -11,7 +11,8 @@ Using the WP Migrate DB Pro plugin we can quickly and easily migrate databases a
 **2. On the install you want _replaced_ (usually the fresh install) enable Push Permissions**
 ![Enable Push Permissions](https://github.com/factor1/developer-resources/raw/master/WP%20Migrate%20DB/enable-push.png)
 
-**3. Copy the connection info from the install that will be _replaced_ (same screen/location as above screenshot) 
+
+**3. Copy the connection info from the install that will be _replaced_ (same screen/location as above screenshot)** 
 
 **4. Push database changes to the database you want _replaced_**
 
