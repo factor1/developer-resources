@@ -41,7 +41,9 @@ npm install prelude-wp --save
 ```
 
 For more information on installing and using [Prelude, view the docs here](http://prelude.factor1.org).
+
 -------
+
 You may now also install any other packages from npm that you may be needing such as Font Awesome, Slick Slider, etc... Always remember to use the `--save` flag so that anyone who may come into your project at a later date gets all the dependencies they need to successfully develop in your theme. 
 
 ## Developing Your Theme 
