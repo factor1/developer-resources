@@ -2,7 +2,7 @@
 
 When working in a staging or production environment that is **not** Flywheel, it may be useful to create a remote git repo to easily push your changes without using FTP/SFTP clients. This is our preferred way of pushing code changes to servers when we can. (Some servers we can use this method on are servers like factor1.me, ther29.com, or any client hosted on Skywalker - but are not limited to these servers).
 
->Note: for an ongoing client where staging and production live on the same server, it may be useful to use a multiple branch strategy. See the docs on this strategy here.
+>Note: for an ongoing client where staging and production live on the same server, it may be useful to use a multiple branch strategy. See the docs on this strategy [here](https://github.com/factor1/developer-resources/blob/master/remote%20server%20repos/multi-branch-repos.md).
 
 ## What's A Single Branch Git Repo?
 By single branch git repo, we mean that the `master` branch of the remote repo servers up the files that are pushed. There would never be multiple branches at the remote repo and you would always push to the `master` branch of the remote repo. 
