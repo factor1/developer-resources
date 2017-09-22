@@ -20,4 +20,4 @@ So now that we have done step 2 and 3 on the WP install that will be replaced, w
 
 ![Push Database](https://github.com/factor1/developer-resources/raw/master/WP%20Migrate%20DB/push-database.png)
 
-> **NOTE:** Some sites may have different database prefixes. After the transfer finishes, you can edit the `wp-config.php` file to point to the new prefix. If you can't edit the `wp-config.php` file you can use a [plugin](https://wordpress.org/plugins/wp-prefix-changer/) to change it from WordPress .
+> **NOTE:** Some sites may have different database prefixes. After the transfer finishes, you can edit the `wp-config.php` file to point to the new prefix. If you can't edit the `wp-config.php` file you can use a [plugin](https://wordpress.org/plugins/wp-prefix-changer/) to change it from WordPress. Also see a note about Flywheel DB prefixes [here](https://github.com/factor1/developer-resources/blob/master/flywheel/Deploying%20On%20Flywheel.md#a-note-about-database-prefixes)
