@@ -1,5 +1,18 @@
 # Git Best Practices 
 
+## Git Ignore
+Every project should include a `.gitignore` file to ignore files that we don't want added to our repository. An example and boilerplate to use would be:
+
+```
+node_modules
+bower_components
+.DS_Store
+error_log
+*.log
+```
+
+You should add any files or folders that should be ignored here as well. 
+
 ## Commits 
 A commit message should be clear and descriptive of what changed in your code. An example of a poor commit would be:
 
