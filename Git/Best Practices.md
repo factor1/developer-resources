@@ -1,5 +1,14 @@
 # Git Best Practices 
 
+## Commits 
+A commit message should be clear and descriptive of what changed in your code. An example of a poor commit would be:
+
+> Updated some css
+
+A better commit message:
+
+> Update header padding and link colors in site navigation
+
 ## Branch Management 
 Understanding where you should be doing your work is key to our success as a development team. 
 
