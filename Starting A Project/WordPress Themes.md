@@ -12,7 +12,7 @@ Another application you may use from time to time is [MAMP](https://www.mamp.inf
 For Windows Devs, [WAMP](http://www.wampserver.com/en/) is a good solution as well and is very similar to MAMP.
 
 ## 3. Setup Your Theme Path 
-Now that we have our local environment setup and WordPress installed, we need to create a folder for our theme to live. Navigate to `wp-content/themes/` and create a new folder with your theme name.
+Now that we have our local environment setup and WordPress installed, we need to create a folder for our theme to live. Navigate to `wp-content/themes/` and create a new folder with your theme name. **Be sure to prefix your theme folder with `f1-` to avoid any conflicts with themes in the WordPress repository.**
 
 ## 4. Initialize a Git Repo & Create a GitHub Repo
 Now that we have the path our theme will be located in, lets initiate a git repo so that we can track our changes. Via terminal in our theme directory:
