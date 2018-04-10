@@ -1,5 +1,5 @@
 # Local By Flywheel Blueprint
-Here you can find a .zip export of the factor1blueprint created to get you up and running faster with WordPress plugins and configurations.
+[Here](https://github.com/factor1/developer-resources/raw/master/Local%20by%20Flywheel%20Blueprint/factor1blueprint.zip) you can find a .zip export of the factor1blueprint created to get you up and running faster with WordPress plugins and configurations.
 
 ## Plugins Included
 - Advanced Custom Fields Pro
